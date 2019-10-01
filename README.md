@@ -1,4 +1,4 @@
-# Welcome to GitHub
+# Welcome to Dead Marine REDUX
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
@@ -8,11 +8,12 @@ Right now, we’re in your first GitHub **repository**. A repository is like a f
 
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
-## Describe your project
+## Description
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+Dead Marine REDUX is a gameplay mod focused on Action-Horror. The player will be given an assortment of tactical weaponry that focuses on making the player feel powerful, however, the player's power will soon be stripped away once he realises that his dead friends surround him, and they too are equiped with the same powerful weaponry that the player is.
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+
+
 
 ## Your first website
 
